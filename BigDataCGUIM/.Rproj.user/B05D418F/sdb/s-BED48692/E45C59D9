@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "1+1\n2^3\n5%%3\na<-4\nb<-2\na+b\nx+x\ny<-c(1,2,3,4)\nx+y\nz<-c(1,2,3,4,5,6)\nx+z\n\ncos(30)\nround(64.7)\nclass(b)\nis.character(a)\nstring<-\"How are you\"\nlength(string)\nnchar(string)\n1.4:5.6\nseq(1,9)\nrep(1:5, time=3)\nx<-1:30\nsum(x)\nmean(x)\nmax(x)\nmin(x)\nmedian(x)\nround(sd(x),digits = 3)\nsummary(x)\nsort(x)\nsort(x,decreasing = T)\nmatrix(nrow = 2,ncol = 3)\nmatrix(\"a\",nrow = 2,ncol = 3)\ndim(matrix(1:6,nrow = 2,ncol = 3))\n",
+    "created" : 1457352750319.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2255642270",
+    "id" : "E45C59D9",
+    "lastKnownWriteTime" : 1457284106,
+    "last_content_update" : 1457284106,
+    "path" : "C:/Users/user/Desktop/BigDataCGUIM/BigDataCGUIM/0307.R",
+    "project_path" : "0307.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
